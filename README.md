@@ -9,4 +9,4 @@ Es gibt Hinweise im Code, aber du wirst deinen Verstand und vielleicht eine Pris
 Beginne mit `decrypt_code.py` und viel Erfolg! 🎅
 
 
-PS.: Solltest du das Rätsel bis 1.1.2025 nicht lösen können, wird das Rätsel in einem neuen Branch aufgelöst.
+PS.: Solltest du das Rätsel bis Sonntag, 22.12.2024 nicht lösen können, wird in einem neuen Branch ein Weihnachtswunder geschehen.
